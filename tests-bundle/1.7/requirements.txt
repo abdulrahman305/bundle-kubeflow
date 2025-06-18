@@ -5,3 +5,4 @@ kfp<2.0.0
 juju<3.0.0
 selenium>=4.8.3
 webdriver_manager>=3.8.5
+protobuf>=4.25.8 # not directly required, pinned by Snyk to avoid a vulnerability
